@@ -1,3 +1,4 @@
+workspace = { members = ["os"] }
 [package]
 name = "rustlings"
 version = "5.2.1"
